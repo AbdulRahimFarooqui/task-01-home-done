@@ -1,0 +1,17 @@
+{
+    "item1":{
+        "url":"/testi.jpg",
+        "heading":"Margaret E.",
+        "text":"This is Fantastic! Thank you so much guys!"
+    },
+    "item2":{
+        "url":"/testi.jpg",
+        "heading":"Fred s.",
+        "text":"Bootstrap is amazing. I've been using it to create lots of super nice landing pages."
+    },
+    "item3":{
+        "url":"/testi.jpg",
+        "heading":"Sarah W.",
+        "text":"Thank you so much for making these free resources available to us!"
+    }
+}

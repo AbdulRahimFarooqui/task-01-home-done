@@ -1,0 +1,20 @@
+{
+    "item1":{
+        "serial":"1",
+        "url":"/1.jpg",
+        "heading":"Fully Responsive Design",
+        "text":"When you use a theme created by Start Boostrap, you know that the theme will look great on any device, whether it's a phone, tablet or a desktop. The page will behave responsively!"
+    },
+    "item2":{
+        "serial":"2",
+        "url":"./2.jpg",
+        "heading":"Updated For BootStrap 4",
+        "text":"Newly improved, and full of great utility classes, Boostrap4 is leading the way in mobile responsive web development! All of the themes on Start Boostrap are now using Bootstrap 4!"
+    },
+    "item3":{
+        "serial":"3",
+        "url":"./3.jpg",
+        "heading":"Easy to Use & Customize",
+        "text":"Landing Page is just HTML and CSS with a splash of SCSS for users who demand some deeper customization options. Out of the box, just add your content and images, and your new landing page will be ready to go!"
+    }
+}

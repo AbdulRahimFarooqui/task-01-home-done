@@ -1,0 +1,17 @@
+{
+    "item1":{
+        "url":"/desktop.png",
+        "heading":"Fully Responsive",
+        "text":"This theme will look great on any size no matter what the size"
+    },
+    "item2":{
+        "url":"./layers.svg",
+        "heading":"BootStrap 4 Ready",
+        "text":"Featuring the latest build of the new Bootstrap 4 framework!"
+    },
+    "item3":{
+        "url":"./done.svg",
+        "heading":"Easy to Use",
+        "text":"Ready to use with your own content, or customize the source files!"
+    }
+}
